@@ -34,14 +34,12 @@
 }
 
 .main__component__content{
-    /* background-color: pink; */
     line-height: 1.3rem;
     width: 95%;
 }
 
 .main__component__content__header{
     margin-bottom: 15px;
-    /* font-weight: 800; */
     font-weight: bold;
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
@@ -54,8 +52,6 @@
     font-size: 14px;
     width: 90%;
     margin: auto;
-    /* margin-bottom: 20px; */
-    /* background-color: yellow; */
     font-family: 'Outfit', sans-serif;
     text-align: center;
 }
